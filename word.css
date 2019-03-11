@@ -1,0 +1,13 @@
+div{
+    border: 2px solid darkblue;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    background-color: honeydew;
+}
+input[type=button]{
+    background-color: green;
+    height: 23px;
+    width: 150px;
+    border: none;
+}
